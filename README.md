@@ -64,6 +64,8 @@ node repl
 <summary><strong>Versions</strong></summary>
 <br />
 
+- Pojie Ver: [lyzcren/Waiting...](https://remake.solaking.com)
+  
 - Cocos Ver: [gameall3d/LifeRestart_Cocos](https://github.com/gameall3d/LifeRestart_Cocos)
 
 </details>
